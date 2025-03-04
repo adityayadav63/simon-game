@@ -1,2 +1,2 @@
 # simon-game
-most popular game in america
+most popular game in america.
